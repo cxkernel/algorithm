@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{FDE61B92-1BBB-4A92-89FA-226237C3CD08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestVS_iOSApp/Main.cs">
+    <Files>
+      <File FileName="TestVS_iOSApp/AppDelegate.cs" Line="22" Column="24" />
+      <File FileName="TestVS_iOSApp/Main.cs" Line="12" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestVS_iOSApp" expanded="True">
+            <Node name="TestVS_iOSApp" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e" selected="True" />
+              </Node>
+              <Node name="ViewController.cs" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TestVS__iOSApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C3C079D3-B237-4E96-84C6-829BCAD5460B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.TestVS__iOSApp>
+</Properties>

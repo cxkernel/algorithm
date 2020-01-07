@@ -1,0 +1,6 @@
+framework module Pods_MiWatch_Extension {
+  umbrella header "Pods-MiWatch Extension-umbrella.h"
+
+  export *
+  module * { export * }
+}

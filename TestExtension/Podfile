@@ -1,0 +1,10 @@
+
+use_frameworks!
+target 'MiWatch Extension' do
+    pod 'Kingfisher'
+end
+
+target 'TestExtension' do
+#    pod 'Kingfisher'
+end
+

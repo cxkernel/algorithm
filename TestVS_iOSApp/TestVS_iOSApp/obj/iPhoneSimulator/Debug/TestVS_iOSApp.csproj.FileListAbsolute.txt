@@ -1,0 +1,12 @@
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/bin/iPhoneSimulator/Debug/TestVS_iOSApp.exe
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/bin/iPhoneSimulator/Debug/TestVS_iOSApp.pdb
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_PartialAppManifest.items
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_PartialAppManifest.items
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/optimized/
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/obj/iPhoneSimulator/Debug/TestVS_iOSApp.csprojAssemblyReference.cache
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/obj/iPhoneSimulator/Debug/TestVS_iOSApp.csproj.CoreCompileInputs.cache
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/obj/iPhoneSimulator/Debug/TestVS_iOSApp.exe
+/Users/coolkernel/Projects/TestVS_iOSApp/TestVS_iOSApp/obj/iPhoneSimulator/Debug/TestVS_iOSApp.pdb
